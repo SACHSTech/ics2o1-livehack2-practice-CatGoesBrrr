@@ -1,14 +1,14 @@
 '''
 -------------------------------------------------------------------------------
 Name:       problem2.py
-Purpose:  Vacation
+Purpose:  Determines Whether User Can Go On Vacation
 
 Author:    Tan.C
 
 Created:    date in 02/12/2021
 ------------------------------------------------------------------------------
 '''
-print("****** Vacation ******")
+print("****** Can I Go On Vacation? ******")
 
 # get mark and earnings from user
 mark = int(input("Mark: "))
